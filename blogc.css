@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Open+Sans&display=swap');
+
+
+.navv{
+    padding: 24px, 120px, 24px, 120px;
+    height: 100px;
+    width: 1544px;
+    position: fixed !important;
+    z-index: 20;
+    background-color: white;
+    margin-top: -100px;
+
+    
+}
+
+.logo{
+    width: 70px;
+    height: 60px;
+    margin-left: 90px;
+}
+
+.nav-content{
+    /* background-color: red; */
+    align-items: center;
+    margin-left: 360px;
+    
+}
+
+
+.download-now{
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    background-color: rgba(109, 24, 48, 1);
+    color:white !important;
+    /* padding: 56px, 38px, 56px, 38px; */
+    margin-left: 200px;
+    height: 58px;
+    width: 183px;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 6px;
+    font-weight: 700;
+}
+
+.navbar-link:active{
+    color: rgba(109, 24, 48, 1) !important;
+    animation-duration: 3s;
+
+}
+
+.view{
+    height: 755.84px;
+    background-color: #FFF9F2;
+    padding-top: 200px;
+    padding-bottom:100px;
+    margin-top: 100px;
+}
+
+.view-img{
+    float: right;
+    width: 558.59px;
+    height: 505.84px;
+    margin-top: -80px;
+    margin-right: 8px;
+    
+    
+}
+
+
+.download-button{
+    /* border: 2px solid red; */
+    border-radius: 10px;
+    background-color: rgba(109, 24, 48, 1);
+    margin-left: 100px;
+    height: 50px;
+    width: 183px;
+    text-align: center;
+    font-weight: 700;
+    color: #FFF9F2;
+}
+
+.navbar-link{
+    font-family: 'Open Sans' !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    margin-right: 25px;
+}
+
+.container-view{
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(20, 57, 76, 1);
+    height: 301px;
+    
+}
+
+.about-view{
+    margin-left: 200px;
+    margin-top: 70px;
+    
+}
+
+.about-viewe{
+    margin-top: 90px;
+
+}
+
+.view-head{
+    width: 590px;
+    height: 52px;
+    font-family: 'Lora';
+    font-weight: 600;
+    font-size: 45px;
+    color: white;
+}
+
+.view-content{
+    width: 590px;
+    height: 28px;
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 22px;
+    color: white;
+}
+
+.blue-logo{
+    width: 116px;
+    height: 101px;
+}
+.view-everything{
+    
+    width: 300px;
+    /* border: red solid 2px; */
+}
+
+.view-blue{
+    margin-top: 50px;
+}
+
+#break-word{
+    /* border: yellow 2px solid; */
+    font-family: 'Lora';
+    font-weight: 400;
+    font-size: 28px;
+    color: white;
+    display: block;
+    width: 150px;
+    margin-top: -110px;
+    margin-left: 130px;
+}
